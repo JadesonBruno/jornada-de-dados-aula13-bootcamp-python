@@ -1,0 +1,4 @@
+ID	Nome	Email	Idade	Ativo	Endereco_Tipo	Endereco_Rua	Endereco_Numero	Cidade	Estado
+1	Ana Silva	ana.silva@email.com	28	Sim	Residencial	Rua das Flores	123	São Paulo	SP
+1	Ana Silva	ana.silva@email.com	28	Sim	Comercial	Av. Paulista	1000	São Paulo	SP
+2	Carlos Souza	carlos.souza@email.com	35	Não	Residencial	Rua Azul	45	Rio de Janeiro	RJ

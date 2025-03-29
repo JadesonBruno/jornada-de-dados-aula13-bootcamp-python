@@ -1,0 +1,14 @@
+{
+    "usuarios": [
+        "Jadeson",
+        "Giulia"
+    ],
+    "idade": [
+        21,
+        34
+    ],
+    "estado": [
+        "Solteiro",
+        "Solteiro"
+    ]
+}
